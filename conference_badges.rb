@@ -31,5 +31,3 @@ def printer(array)
     puts |id|
   end
 end
-
-end
