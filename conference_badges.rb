@@ -28,4 +28,3 @@ def printer(array)
 
   assign_rooms(array).each_index |id|
     puts |id|
-end
